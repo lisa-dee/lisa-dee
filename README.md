@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi, I'm Lisa 👋
+
+I'm a UI/UX developer but I like to get my hands dirty every now and again and drop tables 😄
 
 <!--
 **lisa-dee/lisa-dee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
