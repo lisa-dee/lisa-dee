@@ -1,6 +1,6 @@
 Hi, I'm Lisa 👋
 
-I'm a UI/UX developer but I like to get my hands dirty every now and again and drop tables 😄
+I'm a full stack developer but I like to get my hands dirty every now and again and drop tables 😄
 
 <!------------------------   Untitled design-970x250   ------------------------>
 <h2>Let's do this</h2>
